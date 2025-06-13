@@ -14,6 +14,9 @@ Following is the most straightforward way to start use Git and Github in this no
 + [Create GitHub account](https://help.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account)
 + [Create GitHub repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository)
 
+### Managing personal access tokens:
+
++ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 
 ### 1. Set up credentials, user.email:
 
